@@ -1,12 +1,13 @@
 ## 👋
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gityhb&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/gityhb?pet-id=693297540839127381"
-    width="600"
-    height="150"
-  />
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/695859897830166091/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
 </a>
   
 <!--
