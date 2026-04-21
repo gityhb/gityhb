@@ -8,7 +8,7 @@
     />
   </a>
   <br>
-  <a href="https://solved.ac/ghfnfkrl30">
+  <!-- <a href="https://solved.ac/ghfnfkrl30">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghfnfkrl30" alt="Solved.ac 프로필">
-  </a>
+  </a> -->
 </p>
